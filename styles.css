@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.item-1{
+	background-color:red;
+	width:100px;
+	height:100px;
+	display:flex;
+ 	justify-content:center;
+	align-items:center; 
+	
+} 
